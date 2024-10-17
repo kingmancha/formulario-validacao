@@ -81,11 +81,11 @@ input[type="email"] {
 
 @media (max-width: 600px) {
     form {
-        padding: 10px; /* Reduz o padding em telas menores */
-        max-width: 90%; /* Aumenta a largura do formulário em telas menores */
+        padding: 10px; 
+        max-width: 90%; 
     }
 
     h1 {
-        font-size: 1.5em; /* Ajusta o tamanho da fonte do título */
+        font-size: 1.5em; 
     }
 }

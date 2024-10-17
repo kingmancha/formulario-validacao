@@ -15,7 +15,7 @@ function EnderecoInfo({ form, handleInputChange, handleCepChange, errors }) {
                 {errors.cep && <p>{errors.cep}</p>}
             </div>
 
-            <div className="input-group"> {/* Adicionando a classe input-group */}
+            <div className="input-group"> 
                 <div>
                     <label>Rua:</label>
                     <input
@@ -40,7 +40,7 @@ function EnderecoInfo({ form, handleInputChange, handleCepChange, errors }) {
                 </div>
             </div>
 
-            <div className="input-group"> {/* Adicionando a classe input-group */}
+            <div className="input-group"> 
                 <div>
                     <label>Cidade:</label>
                     <input
